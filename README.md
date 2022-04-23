@@ -1,2 +1,1 @@
-# grafana
-grafana/grafana:8.4.6
+grafana/grafana:8.3.3
